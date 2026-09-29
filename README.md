@@ -35,3 +35,6 @@ npc_generator/
 ├── statement.md       # Problem statement and scope definition
 
 └── README.md          # Quickstart and overview
+
+To run GUI
+* streamlit run mainNPC.py    OR    python -m streamlit run mainNPC.py
